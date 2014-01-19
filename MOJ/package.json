@@ -1,0 +1,12 @@
+{
+    "name": "myApp",
+    "version": "0.0.1",
+    "description": "Prosty czat z Socket.io i Express",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "socket.io": "*",
+        "express": "3.x"
+    }
+}
